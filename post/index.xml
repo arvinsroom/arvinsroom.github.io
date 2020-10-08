@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arvin Jagayat - Personal Website</title>
+    <link>https://arvinsroom.github.io/post/</link>
+    <description>Recent content in Posts on Arvin Jagayat - Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arvinsroom.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my personal website!</title>
+      <link>https://arvinsroom.github.io/p/welcome-to-my-personal-website/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arvinsroom.github.io/p/welcome-to-my-personal-website/</guid>
+      <description>Welcome to my personal website!
+This will be the prospective home of discussions surrounding my research, updates on the Mock Social Media Website Project, hot takes, bugs as a result of unnecessary tinkering to the website, and maybe even some of my artwork in the future.
+I encourage you to get to know more about me, my research interests, the Mock Social Media Website Project, and take a look at my CV.</description>
+    </item>
+    
+  </channel>
+</rss>
